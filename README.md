@@ -18,13 +18,13 @@ App that displays images and information of horned animals. It allows the user t
 
 **Number and name of feature:** Feature #2: Allow users to vote for their favorite beast
 
-**Estimate of time needed to complete:** 1.5 hour
+**Estimate of time needed to complete:** 1.5hr
 
 **Start time:** 9pm CST
 
 **Finish time:**
 
-**Actual time needed to complete:**
+**Actual time needed to complete:** 2hr
 
 ---
 
