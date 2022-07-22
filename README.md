@@ -1,6 +1,6 @@
 # Gallery of Horns
 
-App that displays images and information of horned animals. It allows the user to filter the images by number of horns and chose their favorite image.
+App that displays images and information of horned animals. It allows the user to choose their favorite image.
 
 ---
 
@@ -22,7 +22,7 @@ App that displays images and information of horned animals. It allows the user t
 
 **Start time:** 9pm CST
 
-**Finish time:**
+**Finish time:** 11pm CST
 
 **Actual time needed to complete:** 2hr
 
@@ -32,8 +32,8 @@ App that displays images and information of horned animals. It allows the user t
 
 **Estimate of time needed to complete:** 1 hour
 
-**Start time:** 11pm CST
+**Start time:** 9pm CST
 
-**Finish time:**
+**Finish time:** 11pm CST
 
-**Actual time needed to complete:**
+**Actual time needed to complete:** 2hr
