@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'react-bootstrap/Image';
 import Card from 'react-bootstrap/Card';
 
 class HornedBeast extends React.Component {
@@ -26,8 +25,6 @@ class HornedBeast extends React.Component {
             alt={this.props.description}
             title={this.props.title}
             onClick={this.clickCounter}
-            roundedCircle
-            style={{ width: '18rem' }}
           />
         </Card.Body>
       </Card>
