@@ -1,6 +1,6 @@
 # Gallery of Horns
 
-App that displays images and information of horned animals. It allows the user to filter the images by number of horns and chose their favorite image.
+App that displays images and information of horned animals. It allows the user to choose their favorite image.
 
 ---
 
