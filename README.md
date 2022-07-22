@@ -22,7 +22,7 @@ App that displays images and information of horned animals. It allows the user t
 
 **Start time:** 9pm CST
 
-**Finish time:**
+**Finish time:** 11pm CST
 
 **Actual time needed to complete:** 2hr
 
