@@ -4,6 +4,8 @@ App that displays images and information of horned animals. It allows the user t
 
 ---
 
+## Lab02
+
 **Number and name of feature:** Feature #1: Display images
 
 **Estimate of time needed to complete:** 45min
@@ -37,3 +39,17 @@ App that displays images and information of horned animals. It allows the user t
 **Finish time:** 11pm CST
 
 **Actual time needed to complete:** 2hr
+
+---
+
+## Lab03
+
+**Number and name of feature:** Feature #1: Display a Modal
+
+**Estimate of time needed to complete:**
+
+**Start time:**
+
+**Finish time:**
+
+**Actual time needed to complete:**
