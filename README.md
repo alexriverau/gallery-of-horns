@@ -46,10 +46,10 @@ App that displays images and information of horned animals. It allows the user t
 
 **Number and name of feature:** Feature #1: Display a Modal
 
-**Estimate of time needed to complete:**
+**Estimate of time needed to complete:** 2hr
 
-**Start time:**
+**Start time:** 11am CST
 
-**Finish time:**
+**Finish time:** 2pm CST
 
-**Actual time needed to complete:**
+**Actual time needed to complete:** 3hr
