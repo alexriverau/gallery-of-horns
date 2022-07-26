@@ -13,20 +13,6 @@ h1 {
   font-weight: bold;
 }
 
-#card {
-  display: inline-table;
-  margin: 1rem;
-  padding: 10px;
-  background-color: rgb(239, 234, 234);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-.card-text {
-  border: 2px solid darkcyan;
-  background-color: rgb(252, 231, 205);
-  border-radius: 0.25rem;
-}
-
 h3 {
   margin: 3rem;
   color: darkslateblue;

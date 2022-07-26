@@ -15,16 +15,24 @@ class HornedBeast extends React.Component {
 
   render() {
     return (
-      <Card style={{ width: '18rem' }} id='card'>
+      <Card style={{ width: '18rem' }} id='card' className='h-100'>
         <Card.Body>
           <Card.Title className='card-text'>{this.props.title}</Card.Title>
           <Card.Text className='card-text'>{this.props.description}</Card.Text>
-          <Card.Text className='card-text'>❤️: {this.state.clicks}</Card.Text>
+          <Card.Text onClick={this.clickCounter} className='card-text'>
+            ❤️: {this.state.clicks}
+          </Card.Text>
           <Card.Img
             src={this.props.image_url}
             alt={this.props.description}
             title={this.props.title}
-            onClick={this.clickCounter}
+            onClick={() =>
+              this.props.openModal(
+                this.props.title,
+                this.props.description,
+                this.props.image_url
+              )
+            }
           />
         </Card.Body>
       </Card>
