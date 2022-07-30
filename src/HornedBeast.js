@@ -11,13 +11,11 @@ class HornedBeast extends React.Component {
 
   clickCounter = () => {
     this.setState({ clicks: this.state.clicks + 1 });
-    this.props.openModal(this.props.title);
   };
 
   render() {
     return (
       <Card
-        onClick={this.clickCounter}
         style={{ width: '16rem' }}
         id='card'
         className='h-100'
@@ -25,11 +23,12 @@ class HornedBeast extends React.Component {
         <Card.Body>
           <Card.Title className='card-text'>{this.props.title}</Card.Title>
           <Card.Text className='card-text'>{this.props.description}</Card.Text>
-          <Card.Text className='card-text'>❤️: {this.state.clicks}</Card.Text>
+          <Card.Text onClick={this.clickCounter} className='card-text'>❤️: {this.state.clicks}</Card.Text>
           <Card.Img
             src={this.props.image_url}
             alt={this.props.description}
             title={this.props.title}
+            onClick={()=> this.props.openModal(this.props.title)}
           />
         </Card.Body>
       </Card>
